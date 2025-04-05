@@ -32,35 +32,51 @@ Este proyecto es una aplicación web desarrollada con React y Node.js, que utili
 
 ```bash
 git clone https://github.com/TU_USUARIO/nasa-react-api.git
+```
 
 2. Navega al directorio del frontend:
 
+```bash
 cd nasa-react-api/frontend
+```
 
 3. Instala las dependencias del frontend:
 
+```bash
 npm install
+```
 
 4. Navega al directorio del backend:
 
+```bash
 cd ../backend
+```
 
 5. Instala las dependencias del backend:
 
+```bash
 npm install
+```
 
 6. Ejecuta el servidor backend:
 
+```bash
 npm start
+```
 
 7. En otro terminal, navega nuevamente al directorio del frontend y ejecuta:
 
+```bash
 npm start
+```
 
 La aplicación estará corriendo en http://localhost:3000 y el servidor backend en http://localhost:5000.
 
-#Contribuciones
+## Contribuciones
+
 Las contribuciones son bienvenidas. Si deseas colaborar, por favor abre un issue o crea un pull request con tus cambios.
 
-#Licencia
+## Licencia
+
 Este proyecto está bajo la Licencia MIT.
+```
