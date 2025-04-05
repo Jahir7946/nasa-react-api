@@ -31,7 +31,7 @@ Este proyecto es una aplicación web desarrollada con React y Node.js, que utili
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/nasa-react-api.git
+git clone https://github.com/Jahir7946/nasa-react-api.git
 ```
 
 2. Navega al directorio del frontend:
